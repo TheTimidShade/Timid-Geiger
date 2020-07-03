@@ -1,0 +1,9 @@
+class CfgSounds {
+	sounds[] = {};
+	#include "scripts\geiger\sounds\sounds.hpp"
+};
+
+class CfgFunctions
+{
+	#include "scripts\geiger\functions\functions.hpp"
+};
